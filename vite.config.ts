@@ -52,7 +52,7 @@ export default ({
       'process.env': {}
     },
     server: {
-      open:true,
+      open:false,
       port: process.env.VITE_CLI_PORT,
       proxy:{
        // 把key的路径代理到target位置
