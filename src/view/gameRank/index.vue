@@ -12,6 +12,6 @@
 
 <script>
 export default {
-  name: 'FeedBack'
-}
+  name: "GameRank",
+};
 </script>
